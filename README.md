@@ -8,9 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C00000&center=true&vCenter=true&width=850&lines=Systems+Engineering+Student;Front-end+%26+Back-end+Developer;Data+Analysis+Enthusiast;Digital+Solutions+Designer;Available+for+Professional+Internship+2026;Always+learning+new+technologies" alt="Typing SVG" />
 </p>
 
-<!-- Badges principales -->
 <p align="center">
   <img src="https://img.shields.io/badge/English-B2-C00000?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Internship-Available%202026-111111?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=unknownusa-ai&label=Profile%20Views&color=C00000&style=for-the-badge" />
 </p>
 
 ---
@@ -19,15 +20,17 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Hi! I'm **Georgy Daniel Muñoz Utria**, a **Systems Engineering Student**.  
+Hi! I'm **Georgy Daniel Muñoz Utria**, a **Systems Engineering Student**.
 
 I have knowledge in **front-end development**, **back-end development**, **data analysis**, and **digital solution design**. I enjoy building technological solutions that solve real problems and generate value in academic, business, and social environments.
 
-- 🎓 Systems Engineering Student  
 - 💻 Front-end & Back-end Developer  
+- ⚙️ Back-end and API development  
 - 📊 Data Analysis Enthusiast  
+- 🎨 Digital Solutions Designer  
 - 🚀 Available for Professional Internship · **2026**  
 - 🤝 Teamwork, communication, autonomy, and adaptability  
+- 📚 Always learning new technologies  
 
 <br clear="right"/>
 
@@ -85,7 +88,9 @@ I have knowledge in **front-end development**, **back-end development**, **data 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
-  <br>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20DB-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
@@ -96,7 +101,10 @@ I have knowledge in **front-end development**, **back-end development**, **data 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,vscode,pycharm,androidstudio,figma,notion" />
-  <br>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker%20Compose-Container%20Management-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Google%20Colab-Data%20Analysis-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
   <img src="https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
@@ -108,21 +116,10 @@ I have knowledge in **front-end development**, **back-end development**, **data 
 
 ## 🚀 Projects
 
-### Innovation Research Group
-- Junior researcher designing prototypes for real business and social problems  
-- Multidisciplinary collaboration and documentation of results
-
-### FlexiDrive Project
-- Web platform for vehicle rental management  
-- Full stack development: frontend, backend, design, testing
-
-### La Hormiga Project
-- Administrative web system for automotive workshops  
-- Focus on usability, inventory, customer, and work order management
-
-### Adopt Me Now Project
-- Non-profit platform for responsible pet adoption  
-- Profile management, forms, and adoption requests using agile methodology
+- **Innovation Research Group** – Junior researcher designing prototypes for real business and social problems. Multidisciplinary collaboration and documentation.  
+- **FlexiDrive Project** – Web platform for vehicle rental management. Full stack: frontend, backend, design, testing.  
+- **La Hormiga Project** – Admin web system for automotive workshops. Usability, inventory, customer, and work order management.  
+- **Adopt Me Now Project** – Non-profit platform for responsible pet adoption, with profile management, forms, and adoption requests.
 
 ---
 
@@ -139,7 +136,9 @@ I have knowledge in **front-end development**, **back-end development**, **data 
 ## 🌎 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-Reading:90%25%20Listening:80%25%20Speaking:85%25-C00000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Reading%2090%25-C00000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Listening%2080%25-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Speaking%2085%25-C00000?style=for-the-badge" />
 </p>
 
 ---
@@ -160,18 +159,15 @@ I have knowledge in **front-end development**, **back-end development**, **data 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unknownusa-ai&show_icons=true&theme=radical&hide_border=true&title_color=C00000&icon_color=C00000" height="180"/>
-  <img src="https://img.shields.io/badge/Top%20Languages-View-111111?style=for-the-badge" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unknownusa-ai&theme=radical&hide_border=true&ring=C00000&fire=C00000&currStreakLabel=C00000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=unknownusa-ai&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknownusa-ai&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=unknownusa-ai&theme=dark&hide_border=true&ring=C00000&fire=C00000&currStreakLabel=C00000" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/unknownusa-ai/unknownusa-ai/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unknownusa-ai&theme=github" alt="GitHub Activity Graph"/>
 </p>
