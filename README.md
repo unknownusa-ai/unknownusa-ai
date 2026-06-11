@@ -117,7 +117,7 @@ I have knowledge in **front-end development**, **back-end development**, **data 
 ## 🚀 Projects
 
 - **Innovation Research Group** – Junior researcher designing prototypes for real business and social problems. Multidisciplinary collaboration and documentation.  
-- **FlexiDrive Project** – Web platform for vehicle rental management. Full stack: frontend, backend, design, testing.  
+- **FlexiDrive Project** – Mobile platform for vehicle rental management. Full stack: frontend, backend, design, testing.  
 - **La Hormiga Project** – Admin web system for automotive workshops. Usability, inventory, customer, and work order management.  
 - **Adopt Me Now Project** – Non-profit platform for responsible pet adoption, with profile management, forms, and adoption requests.
 
