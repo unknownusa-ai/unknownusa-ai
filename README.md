@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C00000,100:111111&height=220&section=header&text=Georgy%20Daniel%20Muñoz%20Utria&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Frontend-Backend%20Developer%20%7C%20Data%20Analysis&descAlignY=58&descSize=17"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C00000,100:111111&height=220&section=header&text=Georgy%20Daniel%20Muñoz%20Utria&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Backend%20Developer%20%7C%20Data%20Analysis&descAlignY=58&descSize=17"/>
 </p>
 
 <!-- Typing animation -->
